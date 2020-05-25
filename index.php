@@ -1,3 +1,9 @@
 <?php
 
-echo 'teste';
+class Index  
+{
+    public function teste()
+    {
+        echo 'teste 2';
+    }
+}
